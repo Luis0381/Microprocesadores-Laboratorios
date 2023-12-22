@@ -1,6 +1,6 @@
 # Laboratorios de Sistemas con Microprocesadores y Microcontroladores
 
-En este repositorio se guardan todos los laboratorios desarrollados durante el cursado de Microprocesadores y Microcontroladores. Materia correspondiente al tercer año de la carrera Ingenieria en Computacion dictada en la UNT.
+En este repositorio se guardan todos los laboratorios desarrollados durante el cursado de Microprocesadores y Microcontroladores. Materia correspondiente al tercer año de la carrera Ingenieria en Computacion dictada en la UNT.  
 El contenido de este repositorio consta de una serie de ejercicios prácticos escritos en el conjunto de instrucciones Thumb-2 y adaptados para su ejecución en la placa EDU-CIAA-NXP.
 
 ## Construidos con 🛠️
