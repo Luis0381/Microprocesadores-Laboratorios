@@ -1,0 +1,5 @@
+ // Define el estado inicial y toggle on match del led
+    MOV R0,#(3 << (4 + (2 * LED_MAT))) //+4 porque esta pasando los 4 bits que serian el estado de cada pin que sale del match y la opcion 11 es el estado de toogle por eso el 3
+    STR R0,[R1,#EMR]
+
+COn el EMR puedo controlar si hay un match o no en determinado bit sin necesidad de mandar una interrupcion
